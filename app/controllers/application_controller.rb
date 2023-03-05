@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
-    
-    def home
+
+    def Home
         @message = "hello!"
     end
 
